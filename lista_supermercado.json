@@ -1,0 +1,188 @@
+{
+    "supermercados": {
+        "Carrefour": {
+            "localicacion": {
+                "N": [41,24,12],
+                "E": [2,10,26]
+            },
+            "secciones": {
+                "lacteos": {
+                    "Leche": {
+                        "descripcion": "Leche semidesnatada",
+                        "marca": "Puleva",
+                        "unidades": 6,
+                        "medida": 1,
+                        "unidad_medida": "Litros",
+                        "oferta": {
+                            "oferta_descripcion": "Segunda unidad a mitad de precio",
+                            "oferta_fecha_from": "2022-01-01",
+                            "oferta_fecha_to": "2022-06-06"
+                        },
+                        "precio": 0.79,
+                        "precio_total": 4.74,
+                        "precio_por_medida": 0.79,
+                        "precio_total_oferta": 4.30
+                    },
+                    "Mantequilla": {
+                        "descripcion": "Mantequilla baja en sal",
+                        "marca": "Central Lechera Asturiana",
+                        "unidades": 1,
+                        "medida": 250,
+                        "unidad_medida": "Gramos",
+                        "oferta": {
+                            "oferta_descripcion": "70% descuento",
+                            "oferta_fecha_from": "2022-01-05",
+                            "oferta_fecha_to": "2022-10-01"
+                        },
+                        "precio": 2.35,
+                        "precio_total": 2.35,
+                        "precio_por_medida": 9.40,
+                        "precio_total_oferta": 1.65
+                    },
+                    "Yogures": {
+                        "descripcion": "Yogur bífidus desnatado cremoso de vainilla de madagascar",
+                        "marca": "Danone",
+                        "unidades": 2,
+                        "medida": 480,
+                        "unidad_medida": "Gramos",
+                        "oferta": {
+                            "oferta_descripcion": "",
+                            "oferta_fecha_from": "",
+                            "oferta_fecha_to": ""
+                        },
+                        "precio": 2.35,
+                        "precio_total": 2.35,
+                        "precio_por_medida": 9.40,
+                        "precio_total_oferta": 2.35
+                    }
+                },
+                "fruteria": {
+                    "Tomates": {
+                        "descripcion": "Tomate raf",
+                        "marca": "Carrefour",
+                        "unidades": 1,
+                        "medida": 1000,
+                        "unidad_medida": "Gramos",
+                        "oferta": {
+                            "oferta_descripcion": "",
+                            "oferta_fecha_from": "",
+                            "oferta_fecha_to": ""
+                        },
+                        "precio": 1.50,
+                        "precio_total": 1.50,
+                        "precio_por_medida": 1.50,
+                        "precio_total_oferta": 1.5
+                    },
+                    "Cebolla": {
+                        "descripcion": "Cebolla roja",
+                        "marca": "Carrefour",
+                        "unidades": 1,
+                        "medida": 500,
+                        "unidad_medida": "Gramos",
+                        "oferta": {
+                            "oferta_descripcion": "",
+                            "oferta_fecha_from": "",
+                            "oferta_fecha_to": ""
+                        },
+                        "precio": 2.30,
+                        "precio_total": 1.15,
+                        "precio_por_medida": 2.30,
+                        "precio_total_oferta": 1.15
+                    }
+                }
+            }
+        },
+        "Lidl": {
+            "localicacion": {
+                "N": [27,30,36],
+                "E": [18,20,11]
+            },
+            "secciones": {
+                "lacteos": {
+                    "Leche": {
+                        "descripcion": "Leche semidesnatada",
+                        "marca": "Kaiku",
+                        "unidades": 4,
+                        "medida": 1,
+                        "unidad_medida": "Litros",
+                        "oferta": {
+                            "oferta_descripcion": "",
+                            "oferta_fecha_from": "",
+                            "oferta_fecha_to": ""
+                        },
+                        "precio": 0.81,
+                        "precio_total": 3.24,
+                        "precio_por_medida": 0.81,
+                        "precio_total_oferta": 3.24
+                    },
+                    "Mantequilla": {
+                        "descripcion": "Mantequilla original",
+                        "marca": "President",
+                        "unidades": 2,
+                        "medida": 500,
+                        "unidad_medida": "Gramos",
+                        "oferta": {
+                            "oferta_descripcion": "30% descuento segunda unidad",
+                            "oferta_fecha_from": "2022-03-25",
+                            "oferta_fecha_to": "2022-11-09"
+                        },
+                        "precio": 1.92,
+                        "precio_total": 3.84,
+                        "precio_por_medida": 3.84,
+                        "precio_total_oferta": 3.26
+                    },
+                    "Yogures": {
+                        "descripcion": "Yogur griego edulcorado",
+                        "marca": "Nestle",
+                        "unidades": 12,
+                        "medida": 250,
+                        "unidad_medida": "Gramos",
+                        "oferta": {
+                            "oferta_descripcion": "50% descuento",
+                            "oferta_fecha_from": "2022-04-15",
+                            "oferta_fecha_to": "2022-04-20"
+                        },
+                        "precio": 3.45,
+                        "precio_total": 6.90,
+                        "precio_por_medida": 0.29,
+                        "precio_total_oferta": 3.45
+                    }
+                },
+                "fruteria": {
+                    "Tomates": {
+                        "descripcion": "Tomate de rama",
+                        "marca": "Lidl",
+                        "unidades": 1,
+                        "medida": 1000,
+                        "unidad_medida": "Gramos",
+                        "oferta": {
+                            "oferta_descripcion": "",
+                            "oferta_fecha_from": "",
+                            "oferta_fecha_to": ""
+                        },
+                        "precio": 1.35,
+                        "precio_total": 1.35,
+                        "precio_por_medida": 1.35,
+                        "precio_total_oferta": 1.35
+                    },
+                    "Cebolla": {
+                        "descripcion": "Cebolla blanca",
+                        "marca": "Lidl",
+                        "unidades": 1,
+                        "medida": 500,
+                        "unidad_medida": "Gramos",
+                        "oferta": {
+                            "oferta_descripcion": "",
+                            "oferta_fecha_from": "",
+                            "oferta_fecha_to": ""
+                        },
+                        "precio": 2.56,
+                        "precio_total": 1.28,
+                        "precio_por_medida": 2.56,
+                        "precio_total_oferta": 1.28
+                    }
+                }
+            }
+        }
+    }
+}

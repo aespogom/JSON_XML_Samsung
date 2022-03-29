@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supermercados>
+  <Carrefour>
+    <localicacion>
+      <N>41</N>
+      <N>24</N>
+      <N>12</N>
+      <E>2</E>
+      <E>10</E>
+      <E>26</E>
+    </localicacion>
+    <secciones>
+      <lacteos>
+        <Leche>
+          <descripcion>Leche semidesnatada</descripcion>
+          <marca>Puleva</marca>
+          <unidades>6</unidades>
+          <medida>1</medida>
+          <unidad_medida>Litros</unidad_medida>
+          <oferta>
+            <oferta_descripcion>Segunda unidad a mitad de precio</oferta_descripcion>
+            <oferta_fecha_from>2022-01-01</oferta_fecha_from>
+            <oferta_fecha_to>2022-06-06</oferta_fecha_to>
+          </oferta>
+          <precio>0.79</precio>
+          <precio_total>4.74</precio_total>
+          <precio_por_medida>0.79</precio_por_medida>
+          <precio_total_oferta>4.3</precio_total_oferta>
+        </Leche>
+        <Mantequilla>
+          <descripcion>Mantequilla baja en sal</descripcion>
+          <marca>Central Lechera Asturiana</marca>
+          <unidades>1</unidades>
+          <medida>250</medida>
+          <unidad_medida>Gramos</unidad_medida>
+          <oferta>
+            <oferta_descripcion>70% descuento</oferta_descripcion>
+            <oferta_fecha_from>2022-01-05</oferta_fecha_from>
+            <oferta_fecha_to>2022-10-01</oferta_fecha_to>
+          </oferta>
+          <precio>2.35</precio>
+          <precio_total>2.35</precio_total>
+          <precio_por_medida>9.4</precio_por_medida>
+          <precio_total_oferta>1.65</precio_total_oferta>
+        </Mantequilla>
+        <Yogures>
+          <descripcion>Yogur bífidus desnatado cremoso de vainilla de madagascar</descripcion>
+          <marca>Danone</marca>
+          <unidades>2</unidades>
+          <medida>480</medida>
+          <unidad_medida>Gramos</unidad_medida>
+          <oferta>
+            <oferta_descripcion></oferta_descripcion>
+            <oferta_fecha_from></oferta_fecha_from>
+            <oferta_fecha_to></oferta_fecha_to>
+          </oferta>
+          <precio>2.35</precio>
+          <precio_total>2.35</precio_total>
+          <precio_por_medida>9.4</precio_por_medida>
+          <precio_total_oferta>2.35</precio_total_oferta>
+        </Yogures>
+      </lacteos>
+      <fruteria>
+        <Tomates>
+          <descripcion>Tomate raf</descripcion>
+          <marca>Carrefour</marca>
+          <unidades>1</unidades>
+          <medida>1000</medida>
+          <unidad_medida>Gramos</unidad_medida>
+          <oferta>
+            <oferta_descripcion></oferta_descripcion>
+            <oferta_fecha_from></oferta_fecha_from>
+            <oferta_fecha_to></oferta_fecha_to>
+          </oferta>
+          <precio>1.5</precio>
+          <precio_total>1.5</precio_total>
+          <precio_por_medida>1.5</precio_por_medida>
+          <precio_total_oferta>1.5</precio_total_oferta>
+        </Tomates>
+        <Cebolla>
+          <descripcion>Cebolla roja</descripcion>
+          <marca>Carrefour</marca>
+          <unidades>1</unidades>
+          <medida>500</medida>
+          <unidad_medida>Gramos</unidad_medida>
+          <oferta>
+            <oferta_descripcion></oferta_descripcion>
+            <oferta_fecha_from></oferta_fecha_from>
+            <oferta_fecha_to></oferta_fecha_to>
+          </oferta>
+          <precio>2.3</precio>
+          <precio_total>1.15</precio_total>
+          <precio_por_medida>2.3</precio_por_medida>
+          <precio_total_oferta>1.15</precio_total_oferta>
+        </Cebolla>
+      </fruteria>
+    </secciones>
+  </Carrefour>
+  <Lidl>
+    <localicacion>
+      <N>27</N>
+      <N>30</N>
+      <N>36</N>
+      <E>18</E>
+      <E>20</E>
+      <E>11</E>
+    </localicacion>
+    <secciones>
+      <lacteos>
+        <Leche>
+          <descripcion>Leche semidesnatada</descripcion>
+          <marca>Kaiku</marca>
+          <unidades>4</unidades>
+          <medida>1</medida>
+          <unidad_medida>Litros</unidad_medida>
+          <oferta>
+            <oferta_descripcion></oferta_descripcion>
+            <oferta_fecha_from></oferta_fecha_from>
+            <oferta_fecha_to></oferta_fecha_to>
+          </oferta>
+          <precio>0.81</precio>
+          <precio_total>3.24</precio_total>
+          <precio_por_medida>0.81</precio_por_medida>
+          <precio_total_oferta>3.24</precio_total_oferta>
+        </Leche>
+        <Mantequilla>
+          <descripcion>Mantequilla original</descripcion>
+          <marca>President</marca>
+          <unidades>2</unidades>
+          <medida>500</medida>
+          <unidad_medida>Gramos</unidad_medida>
+          <oferta>
+            <oferta_descripcion>30% descuento segunda unidad</oferta_descripcion>
+            <oferta_fecha_from>2022-03-25</oferta_fecha_from>
+            <oferta_fecha_to>2022-11-09</oferta_fecha_to>
+          </oferta>
+          <precio>1.92</precio>
+          <precio_total>3.84</precio_total>
+          <precio_por_medida>3.84</precio_por_medida>
+          <precio_total_oferta>3.26</precio_total_oferta>
+        </Mantequilla>
+        <Yogures>
+          <descripcion>Yogur griego edulcorado</descripcion>
+          <marca>Nestle</marca>
+          <unidades>12</unidades>
+          <medida>250</medida>
+          <unidad_medida>Gramos</unidad_medida>
+          <oferta>
+            <oferta_descripcion>50% descuento</oferta_descripcion>
+            <oferta_fecha_from>2022-04-15</oferta_fecha_from>
+            <oferta_fecha_to>2022-04-20</oferta_fecha_to>
+          </oferta>
+          <precio>3.45</precio>
+          <precio_total>6.9</precio_total>
+          <precio_por_medida>0.29</precio_por_medida>
+          <precio_total_oferta>3.45</precio_total_oferta>
+        </Yogures>
+      </lacteos>
+      <fruteria>
+        <Tomates>
+          <descripcion>Tomate de rama</descripcion>
+          <marca>Lidl</marca>
+          <unidades>1</unidades>
+          <medida>1000</medida>
+          <unidad_medida>Gramos</unidad_medida>
+          <oferta>
+            <oferta_descripcion></oferta_descripcion>
+            <oferta_fecha_from></oferta_fecha_from>
+            <oferta_fecha_to></oferta_fecha_to>
+          </oferta>
+          <precio>1.35</precio>
+          <precio_total>1.35</precio_total>
+          <precio_por_medida>1.35</precio_por_medida>
+          <precio_total_oferta>1.35</precio_total_oferta>
+        </Tomates>
+        <Cebolla>
+          <descripcion>Cebolla blanca</descripcion>
+          <marca>Lidl</marca>
+          <unidades>1</unidades>
+          <medida>500</medida>
+          <unidad_medida>Gramos</unidad_medida>
+          <oferta>
+            <oferta_descripcion></oferta_descripcion>
+            <oferta_fecha_from></oferta_fecha_from>
+            <oferta_fecha_to></oferta_fecha_to>
+          </oferta>
+          <precio>2.56</precio>
+          <precio_total>1.28</precio_total>
+          <precio_por_medida>2.56</precio_por_medida>
+          <precio_total_oferta>1.28</precio_total_oferta>
+        </Cebolla>
+      </fruteria>
+    </secciones>
+  </Lidl>
+</supermercados>
